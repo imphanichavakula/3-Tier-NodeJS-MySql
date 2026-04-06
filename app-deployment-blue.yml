@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: imphani18/bankapp:blue  # Replace with your Blue version image
+        image: imphani18/bankappp:blue  # Replace with your Blue version image
         env:
         - name: DB_HOST
           value: "mysql"  # MySQL service name
